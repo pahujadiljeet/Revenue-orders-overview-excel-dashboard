@@ -35,7 +35,7 @@ It leverages **Pivot Tables, Charts, and Slicers** to provide actionable insight
 ## 📸 Screenshots
 
 ### **Dashboard View**
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](screenshot/dashboard.png)
 
 ---
 
